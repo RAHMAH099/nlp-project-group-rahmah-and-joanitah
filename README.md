@@ -3,7 +3,7 @@ This is a repository containing the the sentiment analysis for nlp group work.
 
 
 # QUESTIONING THE LLM QUESTIONS FROM THE PDF.
-Q: What types of exercises can I do?
+Q1: What types of exercises can I do?
 A: Based on the information provided in the context, there are four main types of exercises:
 
 1. **Lar Physical Activity**: This includes activities that are intense enough and last long enough to improve heart and lung fitness. Examples include walking, jogging, dancing, bicycling, basketball, soccer, and swimming.
@@ -20,14 +20,14 @@ A: Based on the information provided in the context, there are four main types o
 
 The context also mentions combining exercise with a sedentary activity, suggesting ways to incorporate movement into everyday tasks, such as doing basic exercises like squats, marching in place, jumping jacks, push-ups, or sit-ups while watching TV or during commercials. Additionally, it provides resources for finding classes or events related to fitness, including checking schedules at gyms, yoga studios, or community centers. 
 
-Q: What can one do to maintain good health?
+Q2: What can one do to maintain good health?
 A: One can maintain good health by eating a healthy diet, exercising regularly, keeping a healthy body weight, not drinking too much alcohol, and not smoking. 
 
-Q: What foods can one eat to also maintain good health?
+Q3: What foods can one eat to also maintain good health?
 A: One can eat fruits and vegetables as they are rich in vitamins and minerals which contribute to maintaining good health. 
 
-Q: What time do lessons start at my school?
+Q4: What time do lessons start at my school?
 A: I don't know, that is not in the document. 
 
-Q: Have I taken lunch today?
+Q5: Have I taken lunch today?
 A: I don't know, that is not in the document. 
