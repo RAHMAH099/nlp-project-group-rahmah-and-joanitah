@@ -2,7 +2,28 @@
 This is a repository containing the the sentiment analysis for nlp group work.
 
 
-# QUESTIONING THE LLM QUESTIONS FROM THE PDF.
+# Group NLP Project
+
+Members: _Rahmah_Namugwanya___ and _Joanitah_Nattabi___
+
+## App 1: Sentiment analyser
+- Model: https://huggingface.co/RahmahwithCode/rahmahandjoanitah-sentiment-model
+- Screenshots: screenshot1.png, screenshot2.png
+- Test accuracy: __0.91%__ Test F1: _0.91%___
+- How to run the API: pip install -r requirements.txt
+uvicorn main:app --reload
+- Example:
+- | Review | Predicted sentiment | Score |
+|---|---|---|
+| This movie was fantastic! The acting was brilliant. | POSITIVE | 0.9983 |
+| Terrible experience, I want my money back. | NEGATIVE | 0.9973 |
+| The movie was okay, but the story was predictable. | NEGATIVE | 0.9988 |
+  
+## App 2: Document chatbot
+- Screenshots: screenshot3.png, screenshot4.png
+- Document used: _HeatlhyLivingGuide20-21__
+- Test results:
+- # QUESTIONING THE LLM QUESTIONS FROM THE PDF.
 Q1: What types of exercises can I do?
 A: Based on the information provided in the context, there are four main types of exercises:
 
@@ -30,4 +51,14 @@ Q4: What time do lessons start at my school?
 A: I don't know, that is not in the document. 
 
 Q5: Have I taken lunch today?
-A: I don't know, that is not in the document. 
+A: I don't know, that is not in the document.
+- What broke and how we fixed it:
+
+  
+## Our model vs the LLM
+<your answer to the discussion question>
+## Limitations
+
+## Who did what
+- Member A: __Rahmah_Namugwanya__
+- Member B: _Joanitah_Nattabi__
