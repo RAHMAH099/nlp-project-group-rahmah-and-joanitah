@@ -136,6 +136,8 @@ The document also mentions incorporating movement into everyday activities, such
 
 ### Document Chatbot
 
-![Document Chatbot Screenshot 1](screenhot3.jpeg)
+### Document Chatbot
 
-![Document Chatbot Screenshot 2](screenshot4.jpeg)
+![Document Chatbot Screenshot 1](screenshot3.jpeg)
+
+![Document Chatbot Screenshot 2](screenshot%204.jpeg)
