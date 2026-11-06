@@ -58,33 +58,13 @@ The Document Chatbot uses Retrieval-Augmented Generation (RAG) to retrieve relev
 ### Test Results
 
 The following five questions were used to evaluate the chatbot's ability to retrieve information and provide relevant answers from the document.
-
-**Q1: What types of exercises can I do?**
-
-**Answer:** Based on the information provided in the context, there are four main types of exercises:
-
-1. **Aerobic Physical Activity:** Activities that are intense enough and last long enough to improve heart and lung fitness. Examples include walking, jogging, dancing, bicycling, basketball, soccer, and swimming.
-2. **Muscle-Strengthening Activity:** Also known as resistance training, these activities help maintain or increase muscle strength, endurance, and power. Examples include using weight machines, free weights, resistance elastic bands, Pilates, and performing daily activities such as lifting children.
-3. **Balance Training:** Activities that aim to improve body control and stability.
-4. **Flexibility Exercises:** These include dynamic stretches performed with movement, static stretches held for several seconds or longer, passive stretching using an external force, and active stretching without an external force.
-
-The document also mentions incorporating movement into everyday activities, such as doing squats, marching in place, jumping jacks, push-ups, or sit-ups while watching TV or during commercials. It also suggests checking schedules at gyms, yoga studios, and community centres for fitness classes and events.
-
-**Q2: What can one do to maintain good health?**
-
-**Answer:** One can maintain good health by eating a healthy diet, exercising regularly, keeping a healthy body weight, avoiding excessive alcohol consumption, and not smoking.
-
-**Q3: What foods can one eat to also maintain good health?**
-
-**Answer:** One can eat fruits and vegetables because they are rich in vitamins and minerals that contribute to maintaining good health.
-
-**Q4: What time do lessons start at my school?**
-
-**Answer:** I don't know, that is not in the document.
-
-**Q5: Have I taken lunch today?**
-
-**Answer:** I don't know, that is not in the document.
+| Question | Right page found? | Retrieved Page(s) | Answer correct? | Invented anything? |
+| :--- | :--- | :--- | :--- | :--- |
+| **1. What types of exercises can I do?** | Yes | Page 18, 23 | Yes | No |
+| **2. What can one do to maintain good health?** | Yes | Page 1 | Yes | No |
+| **3. What foods can one eat to also maintain good health?** | Yes | Page 1, 2 | Yes | No |
+| **4. What time do lessons start at my school?** | N/A (not in PDF) | None | Correct (says "I don't know") | No |
+| **5. Have I taken lunch today?** | N/A (not in PDF) | None | Correct (says "I don't know") | No |
 
 ### What Broke and How We Fixed It
 
